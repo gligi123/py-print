@@ -34,7 +34,7 @@ print()                                         # \n
 
 # Bojan Kuljić: print('Ime:', first_name, end='; ' + last_name) -> ne radi jer nakon end= ne dodajemo nove vrijednosti
 # Verzija koja radi:
-print('Ime:' + first_name + ' ' + last_name, 'druga vrijednost', end='; ')
+print('Ime:' + first_name + ' ' + last_name, 'druga vrijednost',end=";")
 
 # 'Ime:' + first_name + ' ' + last_name
 # 'Ime:' + 'Pero' + ' ' + 'Peric' - > 'Ime:Pero Peric'
