@@ -7,3 +7,7 @@ te ispišite na ekran odgovarajuće vrijednosti, za:
     
     Stranice trokuta, površinu trokuta (P = (𝑎 ∗ 𝑣_𝑎)/2, 𝑣_𝑎 je visina na stranicu a) te opseg trokuta.
 '''
+a= 5
+b= 8
+
+p= a * b
